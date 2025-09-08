@@ -37,10 +37,17 @@ Thumbs.db
 
 # Project specific
 PYZ.pyz_extracted/
+PYZ.pyz
+base_library.zip
 numpy/
 numpy-*/
 numpy.libs/
 _tk_data/
+_tcl_data/
+tcl8/
+certifi/
+cv2/
+setuptools/
 win32/
 *.pyd
 *.dll
